@@ -1,4 +1,5 @@
-# DESCRIPTION
+![image](https://github.com/user-attachments/assets/50d8f698-4304-4c97-9c18-43e2958582e0)
+
 
 We have tried to analyze the consumer debt data in the US. The project is comprised of following objectives-(mapped with the respective code file names)
 ### 1) Classification Model
@@ -20,8 +21,6 @@ ii) charge off and min pay date(first repayment date)
 iii) Averge between pay across US regions
 iv) Macro Economic Factors.
 
-# DEMO VIDEO
-https://gtvault-my.sharepoint.com/:v:/g/personal/mgulati30_gatech_edu/EUrHBLvtioBPsX04sFYN1eABmP39jueIZGS4QIX4-8Azvg?e=7ZBWzi&nav=eyJwbGF5YmFja09wdGlvbnMiOnt9LCJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbE1vZGUiOiJtaXMiLCJyZWZlcnJhbFZpZXciOiJwb3N0cm9sbC1jb3B5bGluayIsInJlZmVycmFsUGxheWJhY2tTZXNzaW9uSWQiOiI0Y2UwY2JiNy05NDIwLTQ5ODItYjc4Ni00MTk5ZjE3MTUzNmMifX0%3D
 
 
 The project is tried and tested on windows(there were some errors for AzureML Libraries on M1 and M2 due to silicon architecture)
