@@ -1,0 +1,19 @@
+﻿"Category","All data"
+"days_between_chargeoff_and_judgment",0.31519630328805426
+"chargeoffamt",0.29933247182175754
+"purchasegroup",0.22744626254861905
+"chargeoffamt_present",0.2130838735675084
+"agency_ever",0.19332063020618
+"verification_completed",0.18843956063604148
+"region",0.17239956507021856
+"judgment_amount",0.07628381037377546
+"contains_judgment_image",0.04709874323352973
+"judgment_active",0.03466467603665782
+"FT_job_found",0.03205312233447528
+"legal_ever",0.031385086641911475
+"judgment_amount_present",0.02688442266527425
+"wage_garnishable_state",0.026119161920799234
+"bank_account_found",0.022736838047342438
+"acct_post_judgment",0.01636423123406563
+"working_age",0.011804567761209838
+"PT_job_found",0.0005749644575146199

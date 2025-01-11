@@ -1,0 +1,25 @@
+﻿"Category","All data"
+"days_between_judgment_and_min_pay_date",1.890922024755332
+"avg_pay_to_judgment_ratio",0.9970293786965042
+"days_between_chargeoff_and_min_pay_date",0.7285695268107178
+"avg_days_between_payments",0.5309084637343774
+"avg_monthly_payment(duration>=365days)",0.3949835940778916
+"purchasegroup",0.3026932285706997
+"judgment_active",0.19785262842239046
+"FT_job_found",0.17154870239441933
+"avg_pay_to_chargeoff_ratio",0.1575281672603141
+"chargeoffamt",0.1284702504159524
+"chargeoffamt_present",0.10333461701106919
+"region",0.087561598591579
+"contains_judgment_image",0.08417742212197947
+"judgment_amount",0.0674683339595679
+"verification_completed",0.036386722079526916
+"acct_post_judgment",0.02842246854825446
+"days_between_chargeoff_and_judgment",0.026314670047755978
+"legal_ever",0.023587147207340516
+"wage_garnishable_state",0.02017051969583269
+"agency_ever",0.01492623506946032
+"judgment_amount_present",0.006360088920487218
+"bank_account_found",0.003549978788546987
+"working_age",0.0010792913368421035
+"PT_job_found",0.00009132195453461522
